@@ -19,6 +19,7 @@
   },
   "dependencies": {
     "@parcel/css": "^1.14.0",
+    "@parcel/transformer-css": "^2.8.3",
     "axios": "^1.4.0",
     "detect-it": "^4.0.1",
     "modern-normalize": "^1.1.0",
